@@ -1,5 +1,4 @@
 # Scripts i wrote poorly that i called them noob
----
 ## lazy_nmap.sh
 ### Doing nmap scan the way i wanted!
 
