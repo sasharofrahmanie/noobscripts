@@ -1,8 +1,7 @@
-# noobscript
-## Scripts i wrote poorly that i called them noob
+# Scripts i wrote poorly that i called them noob
 ---
-### lazy_nmap.sh
-Doing nmap scan the way i wanted!
+## lazy_nmap.sh
+### Doing nmap scan the way i wanted!
 
 **Note!!!**
 - If you have nmap installed, you good.
