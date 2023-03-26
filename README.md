@@ -12,7 +12,7 @@ $ ./lazy_nmap.sh [IP_ADDRESS/Domain]
 ```
 
 ## sashito.sh
-### Just like lazy_nmap.sh but this one is better (i guess)
+### Just like `lazy_nmap.sh` but this one is better (i guess)
 
 This script only requires Nmap. So if you already have Nmap installed then you're good!
 
