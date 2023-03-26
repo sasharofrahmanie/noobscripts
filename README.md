@@ -1,6 +1,6 @@
 # Scripts i wrote poorly that i called them noob
 ## lazy_nmap.sh
-### Doing nmap scan the way i wanted!
+### Doing nmap scan the way i wanted!!
 
 **Note!!!**
 - If you have nmap installed, you good.
@@ -15,6 +15,11 @@ $ ./lazy_nmap.sh [IP_ADDRESS/Domain]
 ### Just like `lazy_nmap.sh` but this one is better (i guess)
 
 This script only requires Nmap. So if you already have Nmap installed then you're good!
+
+What it does?
+1. Scan for all ports
+2. Scan for top 100 udp ports
+3. Scan all found (tcp) ports with default scripts
 
 Usage:
 ```bash
